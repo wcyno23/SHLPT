@@ -30,7 +30,7 @@ cd src
 python batch_run.py
 ```
 
-Or you can further modify `batch_run.py` to train and evaluate SHLPT on different order or benchmarks. For instance, to switch from order1 on the Standard CL Benchmark to order1 on the Large Number of Tasks benchmark, modify:
+Or you can further modify `batch_run.py` to train and evaluate SHLPT on different orders or benchmarks. For instance, to switch from order1 on the Standard CL Benchmark to order1 on the Large Number of Tasks benchmark, modify:
 ```python
 batch_run_interactive(cmd_standard_cl_benchmark_order1)
 ```
