@@ -18,7 +18,7 @@ to install the necessary packages.
 
 ## Dataset
 
-Due to size constraints, some datasets (dbpedia_14, MNLI, yahoo_answers_topics) are not hosted there, please download them from [dataset](https://drive.google.com/drive/folders/1xZNSQLWbM52ktJvXpJKg_M-TLEJptrfU?usp=sharing) and place them in the specified directory.
+Due to size constraints, some datasets (dbpedia_14, MNLI, yahoo_answers_topics and yelp) are not hosted there, please download them from [dataset](https://drive.google.com/drive/folders/1xZNSQLWbM52ktJvXpJKg_M-TLEJptrfU?usp=sharing) and place them in the specified directory.
 
 ## Run SHLPT
 

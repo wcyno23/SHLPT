@@ -13,6 +13,7 @@ def load_labeled_dataset(args, tokenizer, train_type="train", label_maps=None, l
     datasets = {}
     label_maps = label_maps if label_maps else {}
     label2task_id = label2task_id if label2task_id else {"num": -1, "split_type": args.task_definition}
+    # max length of each task
     task_to_target_len = {
         'rte': 6,
         'mrpc': 5,
